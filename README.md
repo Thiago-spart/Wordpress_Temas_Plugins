@@ -56,8 +56,11 @@ restaurant reservation
 ótimo completo e gratuito, uma ótima forma de montar um e-commerce no wp
 woo commerce
 
+você precisa montar slides para deixar seu site o mais lógico possível este plugin é perfeito
 
 smart Slider 3
+
+
 claudio sanches - correios for woocommerce 
 woocommerce correios - cálculo de frete na página do produto 
 Brazilian market on woocommerce
