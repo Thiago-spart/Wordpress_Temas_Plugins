@@ -50,7 +50,9 @@ smash Ballon Social Photo Feed
 Uma ótima forma de colocar as redes sociais em formato de icon no footer do site
 social media share buttons
 
+Você precisa de um plugin pra fazer reservas, este é perfeito 
 restaurant reservation
+
 woo commerce
 smart Slider 3
 claudio sanches - correios for woocommerce 
