@@ -53,7 +53,10 @@ social media share buttons
 Você precisa de um plugin pra fazer reservas, este é perfeito 
 restaurant reservation
 
+ótimo completo e gratuito, uma ótima forma de montar um e-commerce no wp
 woo commerce
+
+
 smart Slider 3
 claudio sanches - correios for woocommerce 
 woocommerce correios - cálculo de frete na página do produto 
