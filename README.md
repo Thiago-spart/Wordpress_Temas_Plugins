@@ -57,15 +57,18 @@ restaurant reservation
 woo commerce
 
 você precisa montar slides para deixar seu site o mais lógico possível este plugin é perfeito
-
 smart Slider 3
 
-
+Claudio Sanches é um autor de vários plugins no wp, muito estes focados em métodos de pagamento, uma ótima forma de realizar pagamentos de forma segura e dar a impressão que tudo é feito no site.
 claudio sanches - correios for woocommerce 
+claudio sanches - pageguro for woocommerce
+checkout trapansparente do paypal
+
+
 woocommerce correios - cálculo de frete na página do produto 
 Brazilian market on woocommerce
-checkout trapansparente do paypal
-claudio sanches - pageguro for woocommerce
+
+
 yoast seo 
 plugin google analytics 
 
