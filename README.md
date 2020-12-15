@@ -63,13 +63,15 @@ Claudio Sanches é um autor de vários plugins no wp, muito estes focados em mé
 claudio sanches - correios for woocommerce 
 claudio sanches - pageguro for woocommerce
 checkout trapansparente do paypal
-
-
-woocommerce correios - cálculo de frete na página do produto 
 Brazilian market on woocommerce
 
+Um plugin focado em cálculo de fret
+woocommerce correios - cálculo de frete na página do produto 
 
+Plugin focado em te ajudar a contruir posts mais robustos com técnicas SEO
 yoast seo 
+
+
 plugin google analytics 
 
 extenções:
